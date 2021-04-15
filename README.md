@@ -3,7 +3,7 @@ Port scan ip - Projeto para estudo de vulnerabilidades (portas abertas de um det
 
 Modo de uso:
 - `git clone`
-- `cd scano-port`
+- `cd crazyScan`
 - run `./scanoport ip`
 
 Para compilar, use o GCC:
